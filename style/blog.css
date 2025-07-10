@@ -1,5 +1,51 @@
-div{
-    background-color: blue;
-    padding: 10;
-    margin:30px 30px 30px 30px auto;
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 0px;
+    margin-left: 40px;
+    /* margin-inline-start: 40px; */
+    text-shadow: 30%;
+    align-items:center;
+}
+nav li a{
+    text-decoration: none;
+}
+.p{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.w{
+    /* align-items: center; */
+    text-align: center;
+    margin: 30px;
+    border-radius: 70px;
+    
+}
+nav li:hover{
+    background-color: rgb(195, 192, 199);
+}
+.d{
+    text-align: center;
+    width: 700px ;
+    margin: 20px;
+    margin color: 40px;
+    border-radius: 70px;
+    box-shadow: 60px;
+    
+    height: 300px;
+    display: inline-block;
+}
+.q{
+    
+    text-align: center;
+}
+.n{
+    text-align: center;
+    
+    
+}
+*{
+    background-color: darkmagenta;
 }
